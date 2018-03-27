@@ -1,0 +1,5 @@
+[book]
+authors = ["Florian Gilcher"]
+multilingual = false
+src = "src"
+title = "Rust Community team manual"
